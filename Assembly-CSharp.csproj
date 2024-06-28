@@ -62,12 +62,18 @@
   <ItemGroup>
     <Compile Include="Assets\CollectableFruit.cs" />
     <Compile Include="Assets\Dynamic Floating Text\Scripts\Billboard.cs" />
+    <Compile Include="Assets\banana.cs" />
+    <Compile Include="Assets\strawberry.cs" />
+    <Compile Include="Assets\cameraShrink.cs" />
     <Compile Include="Assets\Dynamic Floating Text\Demo\Scripts\Enemy.cs" />
     <Compile Include="Assets\Dynamic Floating Text\Scripts\EnterType.cs" />
+    <Compile Include="Assets\QuitGame.cs" />
+    <Compile Include="Assets\peach.cs" />
     <Compile Include="Assets\BigJump.cs" />
     <Compile Include="Assets\AQUAS-Lite\Scripts\AQUAS_Lite_Camera.cs" />
     <Compile Include="Assets\CollectCoin.cs" />
     <Compile Include="Assets\LevelStarter.cs" />
+    <Compile Include="Assets\peachtrigger.cs" />
     <Compile Include="Assets\mathfruit.cs" />
     <Compile Include="Assets\RotateObject.cs" />
     <Compile Include="Assets\ObstacleCollision.cs" />
@@ -78,6 +84,7 @@
     <Compile Include="Assets\Polytope Studio\Lowpoly_Demos\Environment_Free\Helpers\MouseLook.cs" />
     <Compile Include="Assets\levelBoundary.cs" />
     <Compile Include="Assets\Low Poly Fruits\resources\fruits_tester.cs" />
+    <Compile Include="Assets\lemon.cs" />
     <Compile Include="Assets\Dynamic Floating Text\Scripts\DynamicTextData.cs" />
     <Compile Include="Assets\MathManager.cs" />
     <Compile Include="Assets\MainMenuFunction.cs" />
@@ -90,7 +97,9 @@
     <Compile Include="Assets\Dynamic Floating Text\Scripts\DynamicText2D.cs" />
     <Compile Include="Assets\healthManager.cs" />
     <Compile Include="Assets\GenerateLevel.cs" />
+    <Compile Include="Assets\cherries.cs" />
     <Compile Include="Assets\Dynamic Floating Text\Scripts\AlternationMode.cs" />
+    <Compile Include="Assets\CreateQuestion.cs" />
     <Compile Include="Assets\Destroyer.cs" />
     <Compile Include="Assets\VisibleEndScreen.cs" />
     <Compile Include="Assets\GirlMove.cs" />
@@ -996,6 +1005,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.ProBuilder">
+      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1028,6 +1041,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
@@ -1046,6 +1063,10 @@
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
@@ -1086,6 +1107,10 @@
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
