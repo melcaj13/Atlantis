@@ -1,4 +1,4 @@
-![Ekran görüntüsü 2024-06-28 221232](https://github.com/melcaj13/Atlantis/assets/148561141/73ab88f6-64c7-4bc7-86b4-605ddaa56986)# Atlantis
+# Atlantis
 Atlantis oyunuma hoşgeldiniz. Size oyunumu tanıtarak başlayayım. Oyunumun amacı oyuncunun dört işlem, hafıza ve dikkat yeteneklerini ölçmek. Oyun sonsuz bir koşu oyunu tarzında. Oyundaki dört işlem sorularını karşımıza çıkan meyvelerin puanları yardınıyla çözüyoruz ve her doğru cevabımızda karşımıza yeni işlemler geliyor. Engellere çarptığımızda ise oyun malesef bitiyor. Oyuncunun sağ sol kontrolü için a, d, sağ sol ok tuşlarını, ufak engellerden atlamak için w ve yukarı ok tuşunu, engellerin altından kaymak için s ve alt ok tuşunu, büyük engellerden atlamak için ise space tuşunu kullanması gerekiyor. Umarım severek oynarsınız.
 
 Başlangıç ekranı.
