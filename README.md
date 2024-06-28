@@ -32,3 +32,4 @@ Engellere çarptığımızda oyunumuz sona eriyor. Ve başlangıç ekranına ger
 
 Oyunun videosu 
 
+https://www.youtube.com/watch?v=IXG3opBzE2Q
