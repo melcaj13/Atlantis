@@ -1,5 +1,5 @@
 # Atlantis
-Atlantis oyunuma hoşgeldiniz. Size oyunumu tanıtarak başlayayım. Oyunumun amacı oyuncunun dört işlem, hafıza ve dikkat yeteneklerini ölçmek. Oyuncunun sağ sol kontrolü için a, d, sağ sol ok tuşlarını, ufak engellerden atlamak için w ve yukarı ok tuşunu, engellerin altından kaymak için s ve alt ok tuşunu, büyük engellerden atlamak için ise space tuşunu kullanması gerekiyor. Umarım severek oynarsınız.
+Atlantis oyunuma hoşgeldiniz. Size oyunumu tanıtarak başlayayım. Oyunumun amacı oyuncunun dört işlem, hafıza ve dikkat yeteneklerini ölçmek. Oyun sonsuz bir koşu oyunu tarzında. Oyundaki dört işlem sorularını karşımıza çıkan meyvelerin puanları yardınıyla çözüyoruz ve her doğru cevabımızda karşımıza yeni işlemler geliyor. Engellere çarptığımızda ise oyun malesef bitiyor. Oyuncunun sağ sol kontrolü için a, d, sağ sol ok tuşlarını, ufak engellerden atlamak için w ve yukarı ok tuşunu, engellerin altından kaymak için s ve alt ok tuşunu, büyük engellerden atlamak için ise space tuşunu kullanması gerekiyor. Umarım severek oynarsınız.
 
 Aşağıdaki görselde de görüldüğü gibi oyuncunun önüne çıkan engeller sayesinde dikkati ölçüyoruz.
 
@@ -13,4 +13,3 @@ Hesap yeteneğini ise oyun ekranında verilen sorular sayesinde ölçüyoruz.
 
 ![Ekran görüntüsü 2024-06-28 221815](https://github.com/melcaj13/Atlantis/assets/148561141/8ff00231-b031-4289-a3c9-8a58c68e3c27)
 
-Oyun sonsuz bir koşu oyunu tarzında. Oyundaki dört işlem sorularını karşımıza çıkan meyvelerin puanları yardınıyla çözüyoruz ve her doğru cevabımızda karşımıza yeni işlemler geliyor. Engellere çarptığımızda ise oyun malesef bitiyor.
